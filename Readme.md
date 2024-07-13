@@ -1,4 +1,4 @@
-# Vagrant virual machine with clean centos-7 on vmware
+# Vagrant virual machine with MacOS
 
 Your need install vagrant and vmware for up this configuration.
 
